@@ -1,0 +1,7 @@
+El perror,1984,Portugal,1,211
+Rocky,2006,Canada,3,64
+El perror II,1959,South Africa,2,322
+Rocky,1903,Indonesia,3,91
+Taxi drive,1979,Japan,2,821
+Tia,1939,China,2,554
+Cacola,1903,Indonesia,2,615

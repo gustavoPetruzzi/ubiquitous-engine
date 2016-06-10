@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1465526304 source:f:\tp_entregafinal\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1463521274 f:\tp_entregafinal\arraylist.h
+
+1465362404 source:f:\tp_entregafinal\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1465052932 f:\tp_entregafinal\input.h
+
+1465530144 source:f:\tp_entregafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"peliculas.h"
+	"directores.h"
+	"input.h"
+
+1465389242 f:\tp_entregafinal\peliculas.h
+	"ArrayList.h"
+
+1465526422 source:f:\tp_entregafinal\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+	"ArrayList.h"
+	"input.h"
+
+1465353564 source:f:\tp_entregafinal\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"input.h"
+	"ArrayList.h"
+
+1465353196 f:\tp_entregafinal\directores.h
+	"ArrayList.h"
+
+1465576814 source:e:\tp_entregafinal\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1463521274 e:\tp_entregafinal\arraylist.h
+
+1465577090 source:e:\tp_entregafinal\directores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"directores.h"
+	"input.h"
+	"ArrayList.h"
+
+1465353196 e:\tp_entregafinal\directores.h
+	"ArrayList.h"
+
+1465362404 source:e:\tp_entregafinal\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1465052932 e:\tp_entregafinal\input.h
+
+1465588774 source:e:\tp_entregafinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"peliculas.h"
+	"directores.h"
+	"input.h"
+
+1465569174 e:\tp_entregafinal\peliculas.h
+	"ArrayList.h"
+
+1465590266 source:e:\tp_entregafinal\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"directores.h"
+	"ArrayList.h"
+	"input.h"
+
